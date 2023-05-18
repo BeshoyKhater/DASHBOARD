@@ -1,0 +1,29 @@
+body, html, #root, .content {
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+.App {
+    display: flex;
+    position: relative;
+    height: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+    background: #e0e0e0;
+
+    &:hover {
+        background: #555 ;
+    }
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DASHBOARD/static/css/main.4fd102f8.css",
+    "main.js": "/DASHBOARD/static/js/main.4be0fe52.js",
+    "static/media/user.png": "/DASHBOARD/static/media/user.16d4e32ca122e2c539cc.png",
+    "index.html": "/DASHBOARD/index.html",
+    "main.4fd102f8.css.map": "/DASHBOARD/static/css/main.4fd102f8.css.map",
+    "main.4be0fe52.js.map": "/DASHBOARD/static/js/main.4be0fe52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd102f8.css",
+    "static/js/main.4be0fe52.js"
+  ]
+}
